@@ -96,7 +96,7 @@ Output:
 
 Client:
 
-<img width="166" height="139" alt="Screenshot 2026-08-21 215949" src="https://github.com/user-attachments/assets/a702699c-7293-4920-ac8e-e117b0102b88" />
+<img width="179" height="237" alt="image" src="https://github.com/user-attachments/assets/4f8497ac-e77a-428c-9c2b-8b50023dfbe6" />
 
 
 Server:
