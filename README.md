@@ -55,25 +55,29 @@ Socket programming finds applications in various domains, including web developm
 
 ##Program Client:
 
+```python
 import socket
 
-s = socket.socket()
-s.bind(("localhost", 8000))
+s=socket.socket()
+s.bind(('localhost',8000))
 s.listen(5)
 
-c, addr = s.accept()
+c,addr=s.accept()
 
 while True:
-    i = input("Enter a data: ")
+    i=input("Enter a data: ")
     c.send(i.encode())
 
-    ack = c.recv(1024).decode()
+    ack=c.recv(1024).decode()
 
     if ack:
         print(ack)
     else:
         c.close()
         break
+```
+
+
 
 Serve:
 
