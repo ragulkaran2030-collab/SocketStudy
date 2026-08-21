@@ -101,7 +101,8 @@ Client:
 
 Server:
 
-<img width="169" height="165" alt="Screenshot 2026-08-21 214526" src="https://github.com/user-attachments/assets/15cf7241-7351-461a-b0f1-b9fc2544f3b0" />
+<img width="163" height="188" alt="image" src="https://github.com/user-attachments/assets/9301aa71-3cb4-435a-ba48-552ed840c5f7" />
+
 
 
 ## Result:
