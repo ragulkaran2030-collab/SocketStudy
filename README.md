@@ -96,11 +96,12 @@ Output:
 
 Client:
 
-<img width="828" height="313" alt="image" src="https://github.com/user-attachments/assets/4353ee3c-1ef7-43e2-81c9-5362069d3757" />
+<img width="166" height="139" alt="Screenshot 2026-08-21 215949" src="https://github.com/user-attachments/assets/a702699c-7293-4920-ac8e-e117b0102b88" />
+
 
 Server:
 
-<img width="832" height="405" alt="image" src="https://github.com/user-attachments/assets/82253ec9-a750-41d5-8989-23ff8cc635e6" />
+<img width="169" height="165" alt="Screenshot 2026-08-21 214526" src="https://github.com/user-attachments/assets/15cf7241-7351-461a-b0f1-b9fc2544f3b0" />
 
 
 ## Result:
